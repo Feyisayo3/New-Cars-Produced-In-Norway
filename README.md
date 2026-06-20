@@ -10,7 +10,7 @@ Interactive Dashboard
 
 Excel 
 
-Poer Query
+Power Query
 
 Quantity produced analysis
 
