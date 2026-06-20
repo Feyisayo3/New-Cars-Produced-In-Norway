@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project snslyses the numbers of new car produced in Norway using Power BI
+This project anslyses the numbers of new car produced in Norway using Power BI
 
 # Features
 
